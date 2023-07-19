@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @MECHANIC-ADITYA21
-- 👀 I’m interested in C and C++
-- 🌱 I’m currently learning DSA in C++ and DATA ANALYST
+- 👋 Hi, I’m @MECHANIC-ADITYA21.
+- 👀 I’m interested in C and C++.
+- 🌱 I’m currently learning DSA in C++ and DATA ANALYST.
 
 
 <!---
